@@ -1,3 +1,49 @@
-body {
-    background-color: #ABC9C9;
-}
+                                                            body {
+                                                            background-color: #ABC9C9;
+                                                        }
+
+                                                        .container {
+                                                            width: 800px;
+                                                            border: 1px solid #000000;
+                                                            padding: 20px;
+                                                            margin: 0 auto 0 auto;
+                                                        }
+                                                        
+                                                        ul {
+                                                            padding-left: 0;
+                                                            margin-left: 0;
+                                                            background-color: #E2B6A7;
+                                                            color: #ffffff;
+                                                            float: left;
+                                                            width: 100%;
+                                                            font-family: arial, helvetica, sans-serif;
+                                                        }
+
+                                                        li {
+                                                            display: inline;
+                                                        }
+
+                                                        ul li a {
+                                                            padding: 0.2em 1em;
+                                                            background-color: #E2B6A7;
+                                                            color: #ffffff;
+                                                            text-decoration: none;
+                                                            float: left;
+                                                            border-right: 3px solid #ffffff;
+                                                        }
+
+                                                        ul li a:hover {
+                                                            background-color: #E2B6A7;
+                                                            color: #ffffff;
+                                                            .box {
+                                                                width: 50%;
+                                                                /height: 200px;
+                                                                */ /background-color: red;
+                                                                */ /padding: 10px;
+                                                                */ margin: 0 0 0 0;
+                                                                text-align: center;
+                                                                float: right;
+                                                            }
+                                                            footer {
+                                                                clear: both;
+                                                            }
