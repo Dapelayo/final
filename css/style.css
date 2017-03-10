@@ -8,7 +8,9 @@
                                                             padding: 20px;
                                                             margin: 0 auto 0 auto;
                                                         }
-                                                        
+h1,h2 {
+  font-family: 'Lobster', cursive;
+}
                                                         ul {
                                                             padding-left: 0;
                                                             margin-left: 0;
