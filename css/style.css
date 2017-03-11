@@ -1,51 +1,83 @@
-                                                            body {
-                                                            background-color: #ABC9C9;
-                                                        }
+                                                              body {
+                                                                  background-color: #ABC9C9;
+                                                              }
 
-                                                        .container {
-                                                            width: 800px;
-                                                            border: 1px solid #000000;
-                                                            padding: 20px;
-                                                            margin: 0 auto 0 auto;
-                                                        }
-h1,h2 {
-  font-family: 'Lobster', cursive;
-}
-                                                        ul {
-                                                            padding-left: 0;
-                                                            margin-left: 0;
-                                                            background-color: #E2B6A7;
-                                                            color: #ffffff;
-                                                            float: left;
-                                                            width: 100%;
-                                                            font-family: arial, helvetica, sans-serif;
-                                                        }
+                                                              .container {
+                                                                  width: 1000px;
+                                                                  height: 1000px;
+                                                                  border: 1px solid #000000;
+                                                                  padding: 10px;
+                                                                  margin: 0 auto 0 auto;
+                                                              }
 
-                                                        li {
-                                                            display: inline;
-                                                        }
+                                                              .beige-box {
+                                                                  width: 500px;
+                                                                  height: 205px;
+                                                                  background-color: #FFFAE7;
+                                                                  padding: 10px;
+                                                                  text-align: center;
+                                                                  float: left;
+                                                              }
 
-                                                        ul li a {
-                                                            padding: 0.2em 1em;
-                                                            background-color: #E2B6A7;
-                                                            color: #ffffff;
-                                                            text-decoration: none;
-                                                            float: left;
-                                                            border-right: 3px solid #ffffff;
-                                                        }
+                                                              header {
+                                                                  background-color: #C02942;
+                                                                  text-transform: uppercase;
+                                                                  display: flex;
+                                                                  justify-content: center;
+                                                                  align-items: center;
+                                                                  font-size: 50px;
+                                                                  color: #ffffff;
+                                                                  text-shadow: 3px 3px 0 rgba(0, 0, 0, 0.2);
+                                                              }
+                                                          }
+                                                          h1, h2 {
+                                                              font-family: 'Lobster', cursive;
+                                                          }
+                                                          p {
+                                                              font-family: 'Poiret One', cursive;
+                                                          }
+                                                          .cream-box {
+                                                              width: 250px;
+                                                              height: 160px;
+                                                              background-color: #FAF8F1;
+                                                              padding: 20px;
+                                                              margin: 10px 10 0 0;
+                                                              text-align: center;
+                                                              float: left;
+                                                          }
+                                                          ul {
+                                                              padding-left: 0;
+                                                              margin-left: 0;
+                                                              background-color: #E2B6A7;
+                                                              color: #ffffff;
+                                                              float: left;
+                                                              width: 100%;
+                                                              font-family: arial, helvetica, sans-serif;
+                                                          }
+                                                          li {
+                                                              display: inline;
+                                                          }
+                                                          ul li a {
+                                                              padding: 0.2em 1em;
+                                                              background-color: #E2B6A7;
+                                                              color: #ffffff;
+                                                              text-decoration: none;
+                                                              float: left;
+                                                              border-right: 3px solid #ffffff;
+                                                          }
+                                                          ul li a:hover {
+                                                              background-color: #ECAF26;
+                                                              color: #ffffff;
+                                                              .box {
+                                                                  width: 50%;
+                                                                  /height: 200px;
+                                                                  */ /background-color: red;
+                                                                  */ /padding: 10px;
+                                                                  */ margin: 0 0 0 0;
+                                                                  text-align: center;
+                                                                  float: right;
+                                                              }
 
-                                                        ul li a:hover {
-                                                            background-color: #E2B6A7;
-                                                            color: #ffffff;
-                                                            .box {
-                                                                width: 50%;
-                                                                /height: 200px;
-                                                                */ /background-color: red;
-                                                                */ /padding: 10px;
-                                                                */ margin: 0 0 0 0;
-                                                                text-align: center;
-                                                                float: right;
-                                                            }
-                                                            footer {
-                                                                clear: both;
-                                                            }
+                                                              footer {
+                                                                  clear: both;
+                                                              }
